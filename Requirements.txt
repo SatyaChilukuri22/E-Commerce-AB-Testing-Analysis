@@ -1,11 +1,7 @@
-streamlit
 pandas
 numpy
-matplotlib
-seaborn
-scikit-learn
+scipy
 statsmodels
-prophet
-xgboost
-joblib
-plotly
+matplotlib
+openpyxl
+jupyter
