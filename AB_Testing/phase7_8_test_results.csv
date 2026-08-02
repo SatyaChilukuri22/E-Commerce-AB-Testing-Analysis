@@ -1,0 +1,9 @@
+metric,value
+control_rate,0.1203863045004612
+treatment_rate,0.11880806551510564
+z_stat,-1.3109241984234394
+p_value,0.18988337448195103
+diff,-0.0015782389853555567
+ci_lower,-0.003937903604443846
+ci_upper,0.0007814256337327326
+verdict,DO NOT SHIP — not statistically significant; insufficient evidence of improvement.
