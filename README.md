@@ -183,3 +183,24 @@ Install dependencies:
 
 ```bash
 pip install pandas numpy scipy statsmodels matplotlib
+📈 Key Business Question
+
+Does the new landing page generate a statistically and practically significant improvement in conversion rate compared to the old landing page?
+
+The final recommendation is available in:
+
+Notebook conclusion section
+Excel Dashboard sheet
+Statistical test results
+📌 Skills Demonstrated
+A/B Testing
+Statistical Hypothesis Testing
+Data Cleaning
+Exploratory Data Analysis
+Conversion Rate Optimization
+Business Analytics
+Excel Dashboarding
+Data Visualization
+📄 License
+
+This project is licensed under the MIT License.
