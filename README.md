@@ -22,6 +22,7 @@ The analysis focuses on comparing control and treatment groups, calculating conv
 - Seaborn
 - SciPy
 - Jupyter Notebook
+- Excel
 
 ## Analysis Workflow
 
